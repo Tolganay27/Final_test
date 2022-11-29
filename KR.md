@@ -26,10 +26,10 @@ _______________________________
 ## Решение задачи:
 1. Вы находитесь в репозитории Final_test
 2. Блок-схема к задаче:
-  ! [схема] (C:\Users\toki-\Desktop\Выбор специализации\схема.png)
+![](https://web.telegram.org/z/#432928839)
 3. Вы находитесь в файле README.md 
 4. Код программы: 
-
+```c#
 string [] array = new string [] {"hello", "2", "world", ":-)"};
 int lenNewArray = 0;
 
@@ -64,8 +64,9 @@ void PrintArray(string[] array)  // функция печати массива
     }
     Console.Write("] ");
 }
+```
 
-5. ! [commits] (C:\Users\toki-\Desktop\Выбор специализации\commits.jpeg)
+5. ![](https://web.telegram.org/z/#432928839)
 
 
 
