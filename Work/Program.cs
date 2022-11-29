@@ -9,10 +9,9 @@
 
 
 string [] array = new string [] {"hello", "2", "world", ":-)"};
-
-
-
 int lenNewArray = 0;
+
+
 for (int i = 0; i < array.Length; i++)
 {
     if (array[i].Length <= 3) lenNewArray++;
