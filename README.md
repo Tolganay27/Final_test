@@ -66,7 +66,7 @@ void PrintArray(string[] array)  // функция печати массива
 }
 ```
 
-5. ![](https://web.telegram.org/z/#432928839)
+5. ![](https://github.com/Tolganay27/Final_test/blob/master/commits.jpeg)
 
 
 
