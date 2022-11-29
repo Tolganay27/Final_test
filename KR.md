@@ -25,47 +25,13 @@ _______________________________
 
 ## Решение задачи:
 1. Вы находитесь в репозитории Final_test
-2. 
+2. Блок-схема к задаче:
+  ! [схема] (C:\Users\toki-\Desktop\Выбор специализации\схема.png)
 3. Вы находитесь в файле README.md 
-4. 
-Код программы:
-
-string [] array = new string [] {"hello", "2", "world", ":-)"};
-
-int lenNewArray = 0;
-for (int i = 0; i < array.Length; i++)
-{
-    if (array[i].Length <= 3) lenNewArray++;
-}
-
-string[] newArray = new string[lenNewArray];
-int idx = 0;
-
-for (int i = 0; i < array.Length; i++)
-{
-    if (array[i].Length <= 3)
-    {
-        newArray[idx] = array[i];
-        idx++;
-    }
-}
-
-PrintArray(array);
-Console.Write("→ ");
-PrintArray(newArray);
-
-void PrintArray(string[] array)  // функция печати массива 
-{
-    Console.Write("[ ");
-    for (int i = 0; i < array.Length; i++)
-    {
-        Console.Write($"“{array[i]}”, ");
-    }
-    Console.Write("] ");
-}
-
+4. Код программы:
 
 5. 
+
 
 
 
